@@ -7,4 +7,4 @@ for coin in coin_type :
   count += n//coin
   n %= coin
 
-print("hi")
+print(count)
